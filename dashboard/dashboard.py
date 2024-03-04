@@ -43,7 +43,7 @@ def setup_navigation_bar():
     return menu_id
 
 # Membaca data dari file CSV
-df_day = pd.read_csv('C:/Users/ilham/Downloads/submission/dashboard/day.csv')
+df_day = pd.read_csv('dashboard/day.csv')
 
 def create_visualizations(df_day):
     # Mengubah nama kolom
