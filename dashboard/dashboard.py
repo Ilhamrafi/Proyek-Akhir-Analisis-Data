@@ -98,9 +98,8 @@ def handle_home_menu():
 
         1. Bagaimana hubungan antara musim dan jumlah sewa sepeda harian?
         2. Bagaimana hubungan antara cuaca (weathersit) dan jumlah sewa sepeda harian?
-        3. Apakah terdapat perbedaan dalam jumlah sewa sepeda harian antara hari kerja (working day), hari libur (holiday), dan akhir pekan (weekend)?
-        4. Bagaimana pola penyewaan sepeda berdasarkan waktu (bulan)?
-        5. Bagaimana pola penyewaan sepeda berdasarkan musim (spring, summer, fall, winter)?
+        3. Bagaimana pola penyewaan sepeda berdasarkan waktu (bulan)?
+        4. Bagaimana pola penyewaan sepeda berdasarkan musim (spring, summer, fall, winter)?
 
         Dengan menganalisis pertanyaan-pertanyaan ini, saya berharap dapat memperoleh pemahaman yang lebih baik tentang tren dan pola dalam penyewaan sepeda, yang dapat bermanfaat untuk pengambilan keputusan dan perencanaan strategis di masa depan.
     """)
